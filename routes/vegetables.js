@@ -25,7 +25,7 @@ router.route('/')
       const vegetablesArray = JSON.parse(data);
   
       const newVegetable = {
-        id: (vegetablesArray.length + 1).toString(),
+        id: (vegetablesArray.length + 1),
         name: req.body.name,
         description: req.body.description,
         sun_shade_preference: req.body.sun_shade_preference,
