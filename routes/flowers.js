@@ -56,7 +56,7 @@ router.get('/:id', (req, res) => {
     }
 
     const flowersArray = JSON.parse(data);
-    const newFlower = flowersArray.find(flower => flower.id === req.params.id);
+    const newFlower = flowersArray.find(flower => flower.id === parseInt(req.params.id));
 
     if (!newFlower) {
       res.status(404).send('Flower not found');

@@ -56,7 +56,7 @@ router.get('/:id', (req, res) => {
     }
 
     const herbsArray = JSON.parse(data);
-    const newHerb = herbsArray.find(herb => herb.id === req.params.id);
+    const newHerb = herbsArray.find(herb => herb.id === parseInt(req.params.id));
 
     if (!newHerb) {
       res.status(404).send('Vegetable not found');
