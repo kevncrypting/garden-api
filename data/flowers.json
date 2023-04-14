@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Sunflower",
+        "description": "A large, cheerful flower that follows the sun",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_bloom": 60,
+        "varieties": [
+            "Moulin Rouge",
+            "Lemon Queen",
+            "Italian White"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rose",
+        "description": "A fragrant flower that comes in many colors and varieties",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 14,
+        "days_to_bloom": 60,
+        "varieties": [
+            "Climbing",
+            "Hybrid Tea",
+            "Floribunda"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lavender",
+        "description": "A fragrant herb with purple flowers that is often used for aromatherapy",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 21,
+        "days_to_bloom": 90,
+        "varieties": [
+            "English",
+            "French",
+            "Spanish"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Daisy",
+        "description": "A simple yet charming flower with white petals and a yellow center",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_bloom": 50,
+        "varieties": [
+            "Shasta",
+            "African",
+            "Oxeye"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Tulip",
+        "description": "A graceful flower that comes in a wide range of colors and shapes",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 21,
+        "days_to_bloom": 60,
+        "varieties": [
+            "Single Early",
+            "Double Late",
+            "Parrot"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Peony",
+        "description": "A fragrant flower with large, showy blooms that come in many colors",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 28,
+        "days_to_bloom": 90,
+        "varieties": [
+            "Tree",
+            "Herbaceous",
+            "Intersectional"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hydrangea",
+        "description": "A beautiful flowering shrub with large clusters of pink, blue, or white flowers",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 28,
+        "days_to_bloom": 90,
+        "varieties": [
+            "Bigleaf",
+            "Panicle",
+            "Oakleaf"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Lily",
+        "description": "A fragrant flower with large, showy blooms that come in many colors",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 14,
+        "days_to_bloom": 60,
+        "varieties": [
+            "Asiatic",
+            "Oriental",
+            "Trumpet"
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Basil",
+        "description": "A fragrant herb with tender leaves that is commonly used in Italian cuisine",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 5,
+        "days_to_harvest": 60,
+        "varieties": [
+            "Genovese",
+            "Thai",
+            "Purple Ruffles"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rosemary",
+        "description": "An evergreen herb with a strong, aromatic flavor that is often used in Mediterranean dishes",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 21,
+        "days_to_harvest": 90,
+        "varieties": [
+            "Tuscan Blue",
+            "Arp",
+            "Spice Island"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mint",
+        "description": "A refreshing herb with a bright, cool flavor that is commonly used in drinks and desserts",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 7,
+        "days_to_harvest": 60,
+        "varieties": [
+            "Peppermint",
+            "Spearmint",
+            "Chocolate Mint"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sage",
+        "description": "An herb with a slightly bitter flavor that is commonly used in Italian and Balkan cuisines",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 14,
+        "days_to_harvest": 90,
+        "varieties": [
+            "Common",
+            "Purple",
+            "Tricolor"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Thyme",
+        "description": "An herb with a warm, earthy flavor that is commonly used in French and Mediterranean cuisines",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 14,
+        "days_to_harvest": 90,
+        "varieties": [
+            "Common",
+            "Lemon",
+            "Creeping"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Oregano",
+        "description": "An herb with a pungent, slightly bitter flavor that is commonly used in Italian and Greek cuisines",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 90,
+        "varieties": [
+            "Greek",
+            "Italian",
+            "Golden"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chives",
+        "description": "An herb with a mild, onion-like flavor that is commonly used in salads and dips",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 60,
+        "varieties": [
+            "Common",
+            "Garlic",
+            "Giant Siberian"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Cilantro",
+        "description": "An herb with a bright, citrusy flavor that is commonly used in Latin American and Asian cuisines",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 60,
+        "varieties": [
+            "Santo",
+            "Slow Bolt",
+            "Delfino"
+        ]
+    }
+]

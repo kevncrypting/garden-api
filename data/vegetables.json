@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Tomato",
+        "description": "A juicy and flavorful fruit that is commonly used as a vegetable in cooking",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 60,
+        "varieties": [
+            "Roma",
+            "Cherry",
+            "Beefsteak"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Carrot",
+        "description": "A root vegetable that is sweet and crunchy",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 14,
+        "days_to_harvest": 70,
+        "varieties": [
+            "Nantes",
+            "Danvers",
+            "Chantenay"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cucumber",
+        "description": "A refreshing and crunchy vegetable that is great for salads and sandwiches",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 50,
+        "varieties": [
+            "Pickling",
+            "English",
+            "Armenian"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Spinach",
+        "description": "A leafy green vegetable that is rich in vitamins and minerals",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 7,
+        "days_to_harvest": 40,
+        "varieties": [
+            "Savoy",
+            "Flat-leafed",
+            "Semi-savoy"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bell Pepper",
+        "description": "A sweet and crunchy vegetable that comes in a variety of colors",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 14,
+        "days_to_harvest": 70,
+        "varieties": [
+            "Red",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Zucchini",
+        "description": "A versatile and mild-flavored summer squash",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 50,
+        "varieties": [
+            "Black Beauty",
+            "Golden",
+            "Tromboncino"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Lettuce",
+        "description": "A leafy green vegetable that is great for salads",
+        "sun_shade_preference": "Partial shade",
+        "days_to_germination": 7,
+        "days_to_harvest": 40,
+        "varieties": [
+            "Butterhead",
+            "Romaine",
+            "Iceberg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Green Beans",
+        "description": "A nutritious and delicious legume that can be eaten raw or cooked",
+        "sun_shade_preference": "Full sun",
+        "days_to_germination": 7,
+        "days_to_harvest": 50,
+        "varieties": [
+            "Snap",
+            "String",
+            "French"
+        ]
+    }
+]
